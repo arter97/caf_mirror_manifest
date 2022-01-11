@@ -24,6 +24,14 @@ repo init -u https://github.com/arter97/caf_mirror_manifest --mirror --reference
 repo sync -j16
 ```
 
+## Storage
+
+As of time of writing, the AOSP mirror takes 746 GiB and CAF mirror (when AOSP mirror is referenced) takes 20 GiB of storage.
+
+We currently store AOSP mirror's `device/` (kernel binary Git repositories are huge) and
+`platform/external/chromium-webview.git/` on a HDD with bind mounts to reduce SSD storage usage.
+Those directories use 310 GiB of space with almost no benefit to use fast storage.
+
 ## How it works
 
 If you want to run this yourself...

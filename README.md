@@ -63,6 +63,11 @@ and perform a `repo sync -j16` again.
 
 This time, Git will reference the mirrored objects.
 
+### But...
+
+If you really want to use mirrors on custom ROMs because you have a bunch of them and want to reduce the total storage usage,
+you can use `repack.sh` to repack Git objects to reference the mirrored objects.
+
 ## How it works
 
 If you want to run this yourself...

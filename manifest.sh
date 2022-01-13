@@ -18,10 +18,10 @@ EOF
 CPUS=$(nproc --all)
 TMP=/tmp/$(uuidgen).caf
 
-# Extract all "name=" values from LA.UM targets
+# Extract all "name=" values from LA.UM and QSSI targets
 # This will take a while as it has to read gigabytes of XML files and sort them
 # Use GNU parallel to divide the load to multiple CPU cores
-grep -l codeaurora.org/quic/la */*LA.UM*.xml | parallel -N $CPUS "cat {} | grep '<project ' | sed -e 's@\"/@\" @g' -e 's@\">@\" @g' | tr ' ' '\n' | grep name= | sort | uniq" | sort | uniq > $TMP
+grep -l codeaurora.org/quic/la */*LA.UM*.xml */*QSSI*.xml | parallel -N $CPUS "cat {} | grep '<project ' | sed -e 's@\"/@\" @g' -e 's@\">@\" @g' | tr ' ' '\n' | grep name= | sort | uniq" | sort | uniq > $TMP
 
 # Remove faulty repositories from blacklist.txt
 while read line; do

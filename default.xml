@@ -696,6 +696,7 @@
   <project name="platform/external/rust/crates/serde_test"/>
   <project name="platform/external/rust/crates/shared_child"/>
   <project name="platform/external/rust/crates/shlex"/>
+  <project name="platform/external/rust/crates/simplelog"/>
   <project name="platform/external/rust/crates/slab"/>
   <project name="platform/external/rust/crates/smallvec"/>
   <project name="platform/external/rust/crates/spin"/>
@@ -1329,8 +1330,10 @@
   <project name="platform/vendor/qcom-opensource/bluetooth"/>
   <project name="platform/vendor/qcom-opensource/bluetooth-commonsys-intf"/>
   <project name="platform/vendor/qcom-opensource/bluetooth_ext"/>
+  <project name="platform/vendor/qcom/opensource/commonsys-intf/audio"/>
   <project name="platform/vendor/qcom-opensource/core-modules"/>
   <project name="platform/vendor/qcom-opensource/core-utils"/>
+  <project name="platform/vendor/qcom-opensource/core-utils-sys"/>
   <project name="platform/vendor/qcom-opensource/cryptfs_hw"/>
   <project name="platform/vendor/qcom-opensource/data-ipa-cfg-mgr"/>
   <project name="platform/vendor/qcom-opensource/data-kernel"/>

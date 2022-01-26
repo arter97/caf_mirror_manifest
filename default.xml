@@ -1334,6 +1334,7 @@
   <project name="platform/vendor/qcom-opensource/core-modules"/>
   <project name="platform/vendor/qcom-opensource/core-utils"/>
   <project name="platform/vendor/qcom-opensource/core-utils-sys"/>
+  <project name="platform/vendor/qcom-opensource/core-utils-vendor"/>
   <project name="platform/vendor/qcom-opensource/cryptfs_hw"/>
   <project name="platform/vendor/qcom-opensource/data-ipa-cfg-mgr"/>
   <project name="platform/vendor/qcom-opensource/data-kernel"/>

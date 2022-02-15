@@ -892,6 +892,7 @@
   <project name="platform/hardware/nxp/nfc"/>
   <project name="platform/hardware/nxp/secure_element"/>
   <project name="platform/hardware/qcom/audio"/>
+  <project name="platform/hardware/qcom/audio-ar"/>
   <project name="platform/hardware/qcom/bootctrl"/>
   <project name="platform/hardware/qcom/bt"/>
   <project name="platform/hardware/qcom/camera"/>
@@ -1296,12 +1297,16 @@
   <project name="platform/vendor/nxp/opensource/frameworks"/>
   <project name="platform/vendor/nxp/opensource/halimpl"/>
   <project name="platform/vendor/nxp/opensource/hidlimpl"/>
+  <project name="platform/vendor/nxp/opensource/keymaster"/>
   <project name="platform/vendor/nxp/opensource/packages/apps/Nfc"/>
   <project name="platform/vendor/opensource/audio-kernel"/>
   <project name="platform/vendor/opensource/camera-kernel"/>
+  <project name="platform/vendor/opensource/cvp-kernel"/>
   <project name="platform/vendor/opensource/dataipa"/>
   <project name="platform/vendor/opensource/display-drivers"/>
+  <project name="platform/vendor/opensource/eva-kernel"/>
   <project name="platform/vendor/opensource/sched"/>
+  <project name="platform/vendor/opensource/touch-drivers"/>
   <project name="platform/vendor/opensource/video-driver"/>
   <project name="platform/vendor/qcom/apq8098_latv"/>
   <project name="platform/vendor/qcom/atoll"/>
@@ -1325,8 +1330,12 @@
   <project name="platform/vendor/qcom/msmnileau"/>
   <project name="platform/vendor/qcom/msmnileau_gvmq"/>
   <project name="platform/vendor/qcom/msmnileau_tb"/>
+  <project name="platform/vendor/qcom/opensource/agm"/>
+  <project name="platform/vendor/qcom/opensource/arpal-lx"/>
   <project name="platform/vendor/qcom-opensource/audio"/>
   <project name="platform/vendor/qcom-opensource/audio-hal/st-hal"/>
+  <project name="platform/vendor/qcom-opensource/audio-hal/st-hal-ar"/>
+  <project name="platform/vendor/qcom/opensource/audio-kernel-ar"/>
   <project name="platform/vendor/qcom-opensource/bluetooth"/>
   <project name="platform/vendor/qcom-opensource/bluetooth-commonsys-intf"/>
   <project name="platform/vendor/qcom-opensource/bluetooth_ext"/>
@@ -1354,6 +1363,7 @@
   <project name="platform/vendor/qcom-opensource/interfaces"/>
   <project name="platform/vendor/qcom-opensource/iot-media"/>
   <project name="platform/vendor/qcom-opensource/kernel/kernel-tests"/>
+  <project name="platform/vendor/qcom-opensource/lights"/>
   <project name="platform/vendor/qcom-opensource/location"/>
   <project name="platform/vendor/qcom-opensource/mmc-utils"/>
   <project name="platform/vendor/qcom-opensource/packages/apps/Bluetooth"/>
@@ -1387,6 +1397,7 @@
   <project name="platform/vendor/qcom/steppe"/>
   <project name="platform/vendor/qcom/steppeau"/>
   <project name="platform/vendor/qcom/steppeau_gvmq"/>
+  <project name="platform/vendor/qcom/taro"/>
   <project name="platform/vendor/qcom/thorium_32"/>
   <project name="platform/vendor/qcom/thorium_64"/>
   <project name="platform/vendor/qcom/thulium"/>

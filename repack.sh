@@ -52,7 +52,7 @@ find ${MIRROR}/aosp -type d -name '*.git' -prune -o -name '*.git' > $TMP.aosp
 find ${MIRROR}/caf  -type d -name '*.git' -prune -o -name '*.git' > $TMP.caf
 touch $TMP
 
-if find .repo/manifests -name '*.xml' -exec cat {} + | grep -q LA.UM; then
+if find .repo/manifests -name '*.xml' -exec cat {} + | grep LA.UM; then
   echo CAF detected
   PRIMARY=caf
   SECONDARY=aosp

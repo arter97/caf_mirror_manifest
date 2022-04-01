@@ -28,7 +28,8 @@ for i in legacy system vendor; do
   cd $i
   (
     echo "Pulling updates from $i"
-    git pull
+    git fetch --all
+    git reset --hard origin/release
     echo "Updated $i"
   ) &
   cd ..

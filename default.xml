@@ -85,7 +85,6 @@
   <project name="platform/bionic"/>
   <project name="platform/bootable/libbootloader"/>
   <project name="platform/bootable/recovery"/>
-  <project name="platform/build"/>
   <project name="platform/build/bazel"/>
   <project name="platform/build/blueprint"/>
   <project name="platform/build/kati"/>
@@ -782,7 +781,6 @@
   <project name="platform/external/vulkan-headers"/>
   <project name="platform/external/vulkan-validation-layers"/>
   <project name="platform/external/walt"/>
-  <project name="platform/external/wayland"/>
   <project name="platform/external/wayland-protocols"/>
   <project name="platform/external/wayland_repo"/>
   <project name="platform/external/webp"/>
@@ -1217,7 +1215,6 @@
   <project name="platform/tools/security"/>
   <project name="platform/tools/test/connectivity"/>
   <project name="platform/tools/test/graphicsbenchmark"/>
-  <project name="platform/tools/tradefederation"/>
   <project name="platform/tools/tradefederation/contrib"/>
   <project name="platform/tools/tradefederation/prebuilts"/>
   <project name="platform/tools/tradefederation_repo"/>

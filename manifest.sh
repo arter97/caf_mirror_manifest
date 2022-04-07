@@ -28,6 +28,13 @@ while read line; do
   sed -i -e "/$(echo ${line} | sed -e 's@/@\\/@g')/d" $TMP
 done < blacklist.txt
 
+# Remove repositories that are replaced with '_repo' ones
+grep '_repo"' $TMP | sed 's/_repo//g' > $TMP.repo
+cat $TMP.repo | while read line; do
+  grep -v "$line" < $TMP > $TMP.2
+  mv $TMP.2 $TMP
+done
+
 # Fix "name=" values to proper XML format
 cat $TMP | while read line; do
   echo "  <project ${line}/>"
@@ -40,4 +47,4 @@ cat << EOF >> "$MANIFEST"
 EOF
 
 # Remove temp file
-rm $TMP
+rm ${TMP}*

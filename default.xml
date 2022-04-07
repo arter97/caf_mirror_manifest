@@ -1306,6 +1306,7 @@
   <project name="platform/vendor/qcom-opensource/wfd-commonsys"/>
   <project name="platform/vendor/qcom-opensource/wigig"/>
   <project name="platform/vendor/qcom-opensource/wlan/apps"/>
+  <project name="platform/vendor/qcom-opensource/wlan-cnss-core"/>
   <project name="platform/vendor/qcom-opensource/wlan/fw-api"/>
   <project name="platform/vendor/qcom-opensource/wlan/prima"/>
   <project name="platform/vendor/qcom-opensource/wlan/qcacld-2.0"/>

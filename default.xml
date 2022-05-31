@@ -1313,6 +1313,7 @@
   <project name="platform/vendor/qcom-opensource/wlan/qcacld-3.0"/>
   <project name="platform/vendor/qcom-opensource/wlan/qca-wifi-host-cmn"/>
   <project name="platform/vendor/qcom-opensource/wlan/utils/sigma-dut"/>
+  <project name="platform/vendor/qcom/parrot"/>
   <project name="platform/vendor/qcom/peafowl"/>
   <project name="platform/vendor/qcom/qcs605"/>
   <project name="platform/vendor/qcom/skunk"/>

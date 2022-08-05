@@ -1040,6 +1040,7 @@
   <project name="platform/packages/services/Mms"/>
   <project name="platform/packages/services/Mtp"/>
   <project name="platform/packages/services/NetworkRecommendation"/>
+  <project name="platform/packages/services/Rcs"/>
   <project name="platform/packages/services/Telecomm"/>
   <project name="platform/packages/services/Telephony"/>
   <project name="platform/packages/wallpapers/ImageWallpaper"/>

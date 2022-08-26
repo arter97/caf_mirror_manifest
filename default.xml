@@ -1394,6 +1394,7 @@
   <project name="platform/vendor/qcom-opensource/display-commonsys-intf"/>
   <project name="platform/vendor/qcom-opensource/dpm"/>
   <project name="platform/vendor/qcom-opensource/dpm-commonsys"/>
+  <project name="platform/vendor/qcom-opensource/ecosw"/>
   <project name="platform/vendor/qcom-opensource/fm"/>
   <project name="platform/vendor/qcom-opensource/fm-commonsys"/>
   <project name="platform/vendor/qcom-opensource/fst-manager"/>

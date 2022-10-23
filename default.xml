@@ -1400,6 +1400,7 @@
   <project name="platform/vendor/qcom-opensource/fst-manager"/>
   <project name="platform/vendor/qcom-opensource/healthd-ext"/>
   <project name="platform/vendor/qcom-opensource/interfaces"/>
+  <project name="platform/vendor/qcom-opensource/iot-core-oss"/>
   <project name="platform/vendor/qcom-opensource/iot-media"/>
   <project name="platform/vendor/qcom-opensource/kernel/kernel-tests"/>
   <project name="platform/vendor/qcom-opensource/lights"/>

@@ -1156,6 +1156,7 @@
   <project name="platform/prebuilts/bundletool"/>
   <project name="platform/prebuilts/checkcolor"/>
   <project name="platform/prebuilts/checkstyle"/>
+  <project name="platform/prebuilts/clang/host/darwin-x86"/>
   <project name="platform/prebuilts/clang/host/linux-x86"/>
   <project name="platform/prebuilts/clang/linux-x86/host/3.6"/>
   <project name="platform/prebuilts/clang-tools"/>

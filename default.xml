@@ -152,6 +152,7 @@
   <project name="platform/external/bsdiff"/>
   <project name="platform/external/bzip2"/>
   <project name="platform/external/caliper"/>
+  <project name="platform/external/can-utils"/>
   <project name="platform/external/capstone"/>
   <project name="platform/external/c-ares"/>
   <project name="platform/external/catch2"/>

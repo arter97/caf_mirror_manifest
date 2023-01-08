@@ -325,6 +325,7 @@
   <project name="platform/external/kotlinx.coroutines"/>
   <project name="platform/external/kotlinx.metadata"/>
   <project name="platform/external/ksoap2"/>
+  <project name="platform/external/ktfmt"/>
   <project name="platform/external/libabigail"/>
   <project name="platform/external/libaom"/>
   <project name="platform/external/libavc"/>
@@ -473,6 +474,9 @@
   <project name="platform/external/oss-fuzz"/>
   <project name="platform/external/ot-br-posix"/>
   <project name="platform/external/owasp/sanitizer"/>
+  <project name="platform/external/pandora/avatar"/>
+  <project name="platform/external/pandora/bt-test-interfaces"/>
+  <project name="platform/external/pandora/mmi2grpc"/>
   <project name="platform/external/parameter-framework"/>
   <project name="platform/external/pcre"/>
   <project name="platform/external/pdfium"/>
@@ -495,6 +499,7 @@
   <project name="platform/external/python/asn1crypto"/>
   <project name="platform/external/python/atomicwrites"/>
   <project name="platform/external/python/attrs"/>
+  <project name="platform/external/python/bumble"/>
   <project name="platform/external/python/cachetools"/>
   <project name="platform/external/python/cffi"/>
   <project name="platform/external/python/cpython2"/>
@@ -543,6 +548,7 @@
   <project name="platform/external/python/pyasn1-modules"/>
   <project name="platform/external/python/pybind11"/>
   <project name="platform/external/python/pycparser"/>
+  <project name="platform/external/python/pyee"/>
   <project name="platform/external/python/pyfakefs"/>
   <project name="platform/external/python/pyopenssl"/>
   <project name="platform/external/python/pyparsing"/>
@@ -983,6 +989,7 @@
   <project name="platform/packages/apps/Car/CompanionDeviceSupport"/>
   <project name="platform/packages/apps/Car/DebuggingRestrictionController"/>
   <project name="platform/packages/apps/Car/Dialer"/>
+  <project name="platform/packages/apps/Car/DialerPrebuilt"/>
   <project name="platform/packages/apps/Car/externallibs"/>
   <project name="platform/packages/apps/Car/Hvac"/>
   <project name="platform/packages/apps/Car/LatinIME"/>
@@ -992,7 +999,9 @@
   <project name="platform/packages/apps/Car/LinkViewer"/>
   <project name="platform/packages/apps/Car/LocalMediaPlayer"/>
   <project name="platform/packages/apps/Car/Media"/>
+  <project name="platform/packages/apps/Car/MediaPrebuilt"/>
   <project name="platform/packages/apps/Car/Messenger"/>
+  <project name="platform/packages/apps/Car/MessengerPrebuilt"/>
   <project name="platform/packages/apps/Car/Notification"/>
   <project name="platform/packages/apps/Car/Overview"/>
   <project name="platform/packages/apps/Car/Provision"/>

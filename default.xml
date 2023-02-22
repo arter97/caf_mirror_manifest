@@ -51,6 +51,7 @@
   <project name="device/qcom/qssi"/>
   <project name="device/qcom/qssi_32"/>
   <project name="device/qcom/qssi_32go"/>
+  <project name="device/qcom/qssi_au"/>
   <project name="device/qcom/qssi_lite"/>
   <project name="device/qcom/sepolicy"/>
   <project name="device/qcom/sepolicy_vndr"/>
@@ -959,9 +960,12 @@
   <project name="platform/hardware/qcom/bootctrl"/>
   <project name="platform/hardware/qcom/bt"/>
   <project name="platform/hardware/qcom/camera"/>
+  <project name="platform/hardware/qcom/data/ipacfg-mgr"/>
   <project name="platform/hardware/qcom/display"/>
   <project name="platform/hardware/qcom/gps"/>
+  <project name="platform/hardware/qcom/keymaster"/>
   <project name="platform/hardware/qcom/media"/>
+  <project name="platform/hardware/qcom/power"/>
   <project name="platform/hardware/qcom/sensors"/>
   <project name="platform/hardware/qcom/thermal"/>
   <project name="platform/hardware/qcom/vr"/>
@@ -1161,6 +1165,7 @@
   <project name="platform/prebuilts/abi-dumps/vndk"/>
   <project name="platform/prebuilts/android-emulator"/>
   <project name="platform/prebuilts/asuite"/>
+  <project name="platform/prebuilts/bazel/darwin-x86_64"/>
   <project name="platform/prebuilts/bazel/linux-x86_64"/>
   <project name="platform/prebuilts/build-tools"/>
   <project name="platform/prebuilts/bundletool"/>
@@ -1175,7 +1180,11 @@
   <project name="platform/prebuilts/devtools"/>
   <project name="platform/prebuilts/eclipse"/>
   <project name="platform/prebuilts/fuchsia_sdk"/>
+  <project name="platform/prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.9"/>
   <project name="platform/prebuilts/gcc/darwin-x86/arm/arm-eabi-4.8"/>
+  <project name="platform/prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.9"/>
+  <project name="platform/prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1"/>
+  <project name="platform/prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.9"/>
   <project name="platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9"/>
   <project name="platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.8"/>
   <project name="platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9"/>
@@ -1185,6 +1194,7 @@
   <project name="platform/prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8"/>
   <project name="platform/prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9"/>
   <project name="platform/prebuilts/gdb/linux-x86"/>
+  <project name="platform/prebuilts/go/darwin-x86"/>
   <project name="platform/prebuilts/go/linux-x86"/>
   <project name="platform/prebuilts/gradle-plugin"/>
   <project name="platform/prebuilts/jdk/jdk11"/>
@@ -1216,6 +1226,7 @@
   <project name="platform/prebuilts/module_sdk/Wifi"/>
   <project name="platform/prebuilts/ndk"/>
   <project name="platform/prebuilts/ninja/linux-x86"/>
+  <project name="platform/prebuilts/python/darwin-x86/2.7.5"/>
   <project name="platform/prebuilts/python/linux-x86/2.7.5"/>
   <project name="platform/prebuilts/qemu-kernel"/>
   <project name="platform/prebuilts/r8"/>
@@ -1341,6 +1352,7 @@
   <project name="platform/tools/tradefederation/contrib"/>
   <project name="platform/tools/tradefederation/prebuilts"/>
   <project name="platform/tools/tradefederation_repo"/>
+  <project name="platform/tools/treble"/>
   <project name="platform/tools/trebuchet"/>
   <project name="platform/vendor/codeaurora/packages/apps/Dialer"/>
   <project name="platform/vendor/codeaurora/packages/apps/SoundRecorder"/>

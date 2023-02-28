@@ -86,6 +86,7 @@
   <project name="kernel/prebuilts/mainline/arm64"/>
   <project name="kernel/prebuilts/mainline/x86-64"/>
   <project name="kernel/tests"/>
+  <project name="meta-qti-touch"/>
   <project name="platform/abi/cpp"/>
   <project name="platform/art"/>
   <project name="platform/bionic"/>
@@ -1358,6 +1359,7 @@
   <project name="platform/vendor/codeaurora/packages/apps/SoundRecorder"/>
   <project name="platform/vendor/codeaurora/telephony"/>
   <project name="platform/vendor/nxp/interfaces/opensource/nfc"/>
+  <project name="platform/vendor/nxp/opensource/driver"/>
   <project name="platform/vendor/nxp/opensource/external/libnfc-nci"/>
   <project name="platform/vendor/nxp/opensource/frameworks"/>
   <project name="platform/vendor/nxp/opensource/halimpl"/>
@@ -1384,6 +1386,7 @@
   <project name="platform/vendor/qcom/falcon_64"/>
   <project name="platform/vendor/qcom/ferrum"/>
   <project name="platform/vendor/qcom/holi"/>
+  <project name="platform/vendor/qcom/kalama"/>
   <project name="platform/vendor/qcom/kona"/>
   <project name="platform/vendor/qcom/lahaina"/>
   <project name="platform/vendor/qcom/lito"/>
@@ -1401,6 +1404,7 @@
   <project name="platform/vendor/qcom-opensource/bluetooth"/>
   <project name="platform/vendor/qcom-opensource/bluetooth-commonsys-intf"/>
   <project name="platform/vendor/qcom-opensource/bluetooth_ext"/>
+  <project name="platform/vendor/qcom-opensource/bt-kernel"/>
   <project name="platform/vendor/qcom/opensource/commonsys-intf/audio"/>
   <project name="platform/vendor/qcom/opensource/commonsys/wifi"/>
   <project name="platform/vendor/qcom-opensource/core-modules"/>
@@ -1434,11 +1438,13 @@
   <project name="platform/vendor/qcom-opensource/power"/>
   <project name="platform/vendor/qcom-opensource/rcs-service"/>
   <project name="platform/vendor/qcom-opensource/recovery-ext"/>
+  <project name="platform/vendor/qcom/opensource/securemsm-kernel"/>
   <project name="platform/vendor/qcom-opensource/shortcut-fe"/>
   <project name="platform/vendor/qcom-opensource/system/bt"/>
   <project name="platform/vendor/qcom-opensource/thermal-engine"/>
   <project name="platform/vendor/qcom-opensource/time-services"/>
   <project name="platform/vendor/qcom-opensource/tools"/>
+  <project name="platform/vendor/qcom-opensource/ts_firmware"/>
   <project name="platform/vendor/qcom-opensource/usb"/>
   <project name="platform/vendor/qcom-opensource/vibrator"/>
   <project name="platform/vendor/qcom-opensource/wfd-commonsys"/>
@@ -1446,6 +1452,7 @@
   <project name="platform/vendor/qcom-opensource/wlan/apps"/>
   <project name="platform/vendor/qcom-opensource/wlan-cnss-core"/>
   <project name="platform/vendor/qcom-opensource/wlan/fw-api"/>
+  <project name="platform/vendor/qcom-opensource/wlan/platform"/>
   <project name="platform/vendor/qcom-opensource/wlan/prima"/>
   <project name="platform/vendor/qcom-opensource/wlan/qcacld-2.0"/>
   <project name="platform/vendor/qcom-opensource/wlan/qcacld-3.0"/>
@@ -1465,7 +1472,11 @@
   <project name="platform/vendor/qcom/trinket"/>
   <project name="platform/vendor/qcom/trinket_32"/>
   <project name="platform/vendor/qcom/wlan"/>
+  <project name="platform/vendor/st/opensource/driver"/>
+  <project name="platform/vendor/st/opensource/eSE-driver"/>
   <project name="platform/vendor/st/opensource/frameworks/st21nfc"/>
+  <project name="platform/vendor/st/opensource/halimpl"/>
+  <project name="platform/vendor/st/opensource/keymaster"/>
   <project name="platform/vendor/st/opensource/packages/apps/Nfc"/>
   <project name="platform/vendor/st/opensource/system/nfc"/>
   <project name="toolchain/benchmark"/>

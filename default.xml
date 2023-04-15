@@ -1378,6 +1378,7 @@
   <project name="platform/vendor/qcom/apq8098_latv"/>
   <project name="platform/vendor/qcom/atoll"/>
   <project name="platform/vendor/qcom/bengal"/>
+  <project name="platform/vendor/qcom/bengal_2w"/>
   <project name="platform/vendor/qcom/bengal_32"/>
   <project name="platform/vendor/qcom/bengal_32go"/>
   <project name="platform/vendor/qcom/cobalt"/>
@@ -1446,6 +1447,14 @@
   <project name="platform/vendor/qcom-opensource/time-services"/>
   <project name="platform/vendor/qcom-opensource/tools"/>
   <project name="platform/vendor/qcom-opensource/ts_firmware"/>
+  <project name="platform/vendor/qcom-opensource/twowheeler/apps/LatinIME"/>
+  <project name="platform/vendor/qcom-opensource/twowheeler/apps/libs"/>
+  <project name="platform/vendor/qcom-opensource/twowheeler/apps/Notification"/>
+  <project name="platform/vendor/qcom-opensource/twowheeler/apps/Settings"/>
+  <project name="platform/vendor/qcom-opensource/twowheeler/apps/systemlibs"/>
+  <project name="platform/vendor/qcom-opensource/twowheeler/apps/SystemUI"/>
+  <project name="platform/vendor/qcom-opensource/twowheeler/frameworks/opt/bike/services"/>
+  <project name="platform/vendor/qcom-opensource/twowheeler/services"/>
   <project name="platform/vendor/qcom-opensource/usb"/>
   <project name="platform/vendor/qcom-opensource/vibrator"/>
   <project name="platform/vendor/qcom-opensource/wfd-commonsys"/>

@@ -1383,6 +1383,7 @@
   <project name="platform/vendor/qcom/bengal_32go"/>
   <project name="platform/vendor/qcom/cobalt"/>
   <project name="platform/vendor/qcom/cobalt_32"/>
+  <project name="platform/vendor/qcom/crow"/>
   <project name="platform/vendor/qcom/falcon_32"/>
   <project name="platform/vendor/qcom/falcon_64"/>
   <project name="platform/vendor/qcom/ferrum"/>

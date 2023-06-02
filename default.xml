@@ -1440,6 +1440,7 @@
   <project name="platform/vendor/qcom-opensource/location"/>
   <project name="platform/vendor/qcom-opensource/mmc-utils"/>
   <project name="platform/vendor/qcom-opensource/packages/apps/Bluetooth"/>
+  <project name="platform/vendor/qcom-opensource/packages/modules/Bluetooth"/>
   <project name="platform/vendor/qcom-opensource/power"/>
   <project name="platform/vendor/qcom-opensource/rcs-service"/>
   <project name="platform/vendor/qcom-opensource/recovery-ext"/>

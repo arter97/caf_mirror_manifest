@@ -47,6 +47,7 @@
   <project name="device/linaro/dragonboard-kernel"/>
   <project name="device/linaro/poplar"/>
   <project name="device/linaro/poplar-kernel"/>
+  <project name="device/qcom/bengal_515"/>
   <project name="device/qcom/common"/>
   <project name="device/qcom/qssi"/>
   <project name="device/qcom/qssi_32"/>
@@ -1372,9 +1373,13 @@
   <project name="platform/vendor/opensource/dataipa"/>
   <project name="platform/vendor/opensource/display-drivers"/>
   <project name="platform/vendor/opensource/eva-kernel"/>
+  <project name="platform/vendor/opensource/mm-drivers"/>
+  <project name="platform/vendor/opensource/mmrm-driver"/>
+  <project name="platform/vendor/opensource/mmrm-driver-test"/>
   <project name="platform/vendor/opensource/sched"/>
   <project name="platform/vendor/opensource/touch-drivers"/>
   <project name="platform/vendor/opensource/video-driver"/>
+  <project name="platform/vendor/opensource/video-driver-test"/>
   <project name="platform/vendor/qcom/apq8098_latv"/>
   <project name="platform/vendor/qcom/atoll"/>
   <project name="platform/vendor/qcom/bengal"/>
@@ -1429,6 +1434,7 @@
   <project name="platform/vendor/qcom-opensource/fm"/>
   <project name="platform/vendor/qcom-opensource/fm-commonsys"/>
   <project name="platform/vendor/qcom-opensource/fst-manager"/>
+  <project name="platform/vendor/qcom/opensource/graphics-kernel"/>
   <project name="platform/vendor/qcom-opensource/healthd-ext"/>
   <project name="platform/vendor/qcom-opensource/interfaces"/>
   <project name="platform/vendor/qcom-opensource/iot-core-oss"/>

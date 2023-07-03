@@ -208,6 +208,8 @@
   <project name="platform/external/easymock"/>
   <project name="platform/external/ebtables"/>
   <project name="platform/external/eclipse-basebuilder"/>
+  <project name="platform/external/eclipse/mosquitto"/>
+  <project name="platform/external/eclipse/paho.mqtt.c"/>
   <project name="platform/external/eclipse-windowbuilder"/>
   <project name="platform/external/eigen"/>
   <project name="platform/external/elfutils"/>

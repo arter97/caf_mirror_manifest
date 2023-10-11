@@ -1046,8 +1046,10 @@
   <project name="platform/hardware/google/gfxstream"/>
   <project name="platform/hardware/google/interfaces"/>
   <project name="platform/hardware/google/pixel"/>
+  <project name="platform/hardware/google/pixel-sepolicy"/>
   <project name="platform/hardware/interfaces"/>
   <project name="platform/hardware/invensense"/>
+  <project name="platform/hardware/knowles/athletico/sound_trigger_hal"/>
   <project name="platform/hardware/libhardware"/>
   <project name="platform/hardware/libhardware_legacy"/>
   <project name="platform/hardware/nxp/nfc"/>

@@ -1570,6 +1570,7 @@
   <project name="platform/vendor/qcom-opensource/recovery-ext"/>
   <project name="platform/vendor/qcom/opensource/securemsm-kernel"/>
   <project name="platform/vendor/qcom-opensource/shortcut-fe"/>
+  <project name="platform/vendor/qcom-opensource/someip-commonsys-intf"/>
   <project name="platform/vendor/qcom-opensource/system/bt"/>
   <project name="platform/vendor/qcom-opensource/thermal-engine"/>
   <project name="platform/vendor/qcom-opensource/time-services"/>

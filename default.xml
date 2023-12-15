@@ -1504,6 +1504,7 @@
   <project name="platform/vendor/qcom/bengal_2w"/>
   <project name="platform/vendor/qcom/bengal_32"/>
   <project name="platform/vendor/qcom/bengal_32go"/>
+  <project name="platform/vendor/qcom/capri"/>
   <project name="platform/vendor/qcom/cobalt"/>
   <project name="platform/vendor/qcom/cobalt_32"/>
   <project name="platform/vendor/qcom/crow"/>

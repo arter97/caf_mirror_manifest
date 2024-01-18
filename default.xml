@@ -162,6 +162,7 @@
   <project name="platform/external/bcc"/>
   <project name="platform/external/bison"/>
   <project name="platform/external/blktrace"/>
+  <project name="platform/external/boost-submodules/boost"/>
   <project name="platform/external/boringssl"/>
   <project name="platform/external/bouncycastle"/>
   <project name="platform/external/bpftool"/>
@@ -961,6 +962,7 @@
   <project name="platform/external/vm_tools/p9"/>
   <project name="platform/external/vogar"/>
   <project name="platform/external/volley"/>
+  <project name="platform/external/vsomeip"/>
   <project name="platform/external/vulkan-headers"/>
   <project name="platform/external/vulkan-validation-layers"/>
   <project name="platform/external/walt"/>

@@ -392,6 +392,7 @@
   <project name="platform/external/liblzf"/>
   <project name="platform/external/libmicrohttpd"/>
   <project name="platform/external/libmojo"/>
+  <project name="platform/external/libmonet"/>
   <project name="platform/external/libmpeg2"/>
   <project name="platform/external/libmtp"/>
   <project name="platform/external/libnetfilter_conntrack"/>
@@ -460,6 +461,7 @@
   <project name="platform/external/mobly-snippet-lib"/>
   <project name="platform/external/mockftpserver"/>
   <project name="platform/external/mockito"/>
+  <project name="platform/external/mockito-kotlin"/>
   <project name="platform/external/mockwebserver"/>
   <project name="platform/external/modp_b64"/>
   <project name="platform/external/mp4parser"/>
@@ -1572,6 +1574,7 @@
   <project name="platform/vendor/qcom-opensource/power"/>
   <project name="platform/vendor/qcom-opensource/rcs-service"/>
   <project name="platform/vendor/qcom-opensource/recovery-ext"/>
+  <project name="platform/vendor/qcom-opensource/rpc-util"/>
   <project name="platform/vendor/qcom/opensource/securemsm-kernel"/>
   <project name="platform/vendor/qcom-opensource/shortcut-fe"/>
   <project name="platform/vendor/qcom-opensource/someip-commonsys-intf"/>

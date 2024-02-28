@@ -1526,6 +1526,10 @@
   <project name="platform/vendor/qcom/msm8937_32go"/>
   <project name="platform/vendor/qcom/msm8937_lily"/>
   <project name="platform/vendor/qcom/msmnile"/>
+  <project name="platform/vendor/qcom/msmnileau"/>
+  <project name="platform/vendor/qcom/msmnileau_gvmq"/>
+  <project name="platform/vendor/qcom/msmnileau_km4"/>
+  <project name="platform/vendor/qcom/msmnileau_tb"/>
   <project name="platform/vendor/qcom/opensource/agm"/>
   <project name="platform/vendor/qcom-opensource/androidui"/>
   <project name="platform/vendor/qcom/opensource/arpal-lx"/>
@@ -1554,12 +1558,14 @@
   <project name="platform/vendor/qcom-opensource/display-commonsys-intf"/>
   <project name="platform/vendor/qcom-opensource/dpm"/>
   <project name="platform/vendor/qcom-opensource/dpm-commonsys"/>
+  <project name="platform/vendor/qcom-opensource/earlyservices"/>
   <project name="platform/vendor/qcom-opensource/ecosw"/>
   <project name="platform/vendor/qcom-opensource/fm"/>
   <project name="platform/vendor/qcom-opensource/fm-commonsys"/>
   <project name="platform/vendor/qcom-opensource/fst-manager"/>
   <project name="platform/vendor/qcom/opensource/graphics-kernel"/>
   <project name="platform/vendor/qcom-opensource/healthd-ext"/>
+  <project name="platform/vendor/qcom-opensource/hsi2s-kernel"/>
   <project name="platform/vendor/qcom-opensource/interfaces"/>
   <project name="platform/vendor/qcom-opensource/iot-core-oss"/>
   <project name="platform/vendor/qcom-opensource/iot-media"/>
@@ -1581,6 +1587,8 @@
   <project name="platform/vendor/qcom-opensource/system/bt"/>
   <project name="platform/vendor/qcom-opensource/thermal-engine"/>
   <project name="platform/vendor/qcom-opensource/time-services"/>
+  <project name="platform/vendor/qcom/opensource/tinyalsa"/>
+  <project name="platform/vendor/qcom/opensource/tinycompress"/>
   <project name="platform/vendor/qcom-opensource/tools"/>
   <project name="platform/vendor/qcom-opensource/ts_firmware"/>
   <project name="platform/vendor/qcom-opensource/twowheeler/apps/LatinIME"/>
@@ -1609,6 +1617,7 @@
   <project name="platform/vendor/qcom/qcs605"/>
   <project name="platform/vendor/qcom/skunk"/>
   <project name="platform/vendor/qcom/steppe"/>
+  <project name="platform/vendor/qcom/steppeau"/>
   <project name="platform/vendor/qcom/taro"/>
   <project name="platform/vendor/qcom/thorium_32"/>
   <project name="platform/vendor/qcom/thorium_64"/>

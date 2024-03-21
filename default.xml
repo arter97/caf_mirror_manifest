@@ -54,6 +54,7 @@
   <project name="device/qcom/qssi_32go"/>
   <project name="device/qcom/qssi_64"/>
   <project name="device/qcom/qssi_au"/>
+  <project name="device/qcom/qssi_au_vcu"/>
   <project name="device/qcom/qssi_lite"/>
   <project name="device/qcom/qssi_sdg"/>
   <project name="device/qcom/qssi_xrM"/>

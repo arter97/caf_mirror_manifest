@@ -1500,7 +1500,9 @@
   <project name="platform/vendor/opensource/mm-drivers"/>
   <project name="platform/vendor/opensource/mmrm-driver"/>
   <project name="platform/vendor/opensource/mmrm-driver-test"/>
+  <project name="platform/vendor/opensource/mm-sys-kernel"/>
   <project name="platform/vendor/opensource/sched"/>
+  <project name="platform/vendor/opensource/synx-kernel"/>
   <project name="platform/vendor/opensource/touch-drivers"/>
   <project name="platform/vendor/opensource/video-driver"/>
   <project name="platform/vendor/opensource/video-driver-test"/>
@@ -1510,6 +1512,7 @@
   <project name="platform/vendor/qcom/bengal_2w"/>
   <project name="platform/vendor/qcom/bengal_32"/>
   <project name="platform/vendor/qcom/bengal_32go"/>
+  <project name="platform/vendor/qcom/blair"/>
   <project name="platform/vendor/qcom/capri"/>
   <project name="platform/vendor/qcom/cobalt"/>
   <project name="platform/vendor/qcom/cobalt_32"/>
@@ -1559,8 +1562,10 @@
   <project name="platform/vendor/qcom-opensource/display-commonsys-intf"/>
   <project name="platform/vendor/qcom-opensource/dpm"/>
   <project name="platform/vendor/qcom-opensource/dpm-commonsys"/>
+  <project name="platform/vendor/qcom/opensource/dsp-kernel"/>
   <project name="platform/vendor/qcom-opensource/earlyservices"/>
   <project name="platform/vendor/qcom-opensource/ecosw"/>
+  <project name="platform/vendor/qcom-opensource/fingerprint"/>
   <project name="platform/vendor/qcom-opensource/fm"/>
   <project name="platform/vendor/qcom-opensource/fm-commonsys"/>
   <project name="platform/vendor/qcom-opensource/fst-manager"/>
@@ -1585,6 +1590,7 @@
   <project name="platform/vendor/qcom/opensource/securemsm-kernel"/>
   <project name="platform/vendor/qcom-opensource/shortcut-fe"/>
   <project name="platform/vendor/qcom-opensource/someip-commonsys-intf"/>
+  <project name="platform/vendor/qcom/opensource/spu-kernel"/>
   <project name="platform/vendor/qcom-opensource/system/bt"/>
   <project name="platform/vendor/qcom-opensource/thermal-engine"/>
   <project name="platform/vendor/qcom-opensource/time-services"/>
@@ -1617,6 +1623,7 @@
   <project name="platform/vendor/qcom-opensource/wlan/utils/sigma-dut"/>
   <project name="platform/vendor/qcom/parrot"/>
   <project name="platform/vendor/qcom/peafowl"/>
+  <project name="platform/vendor/qcom/pineapple"/>
   <project name="platform/vendor/qcom/qcs605"/>
   <project name="platform/vendor/qcom/skunk"/>
   <project name="platform/vendor/qcom/steppe"/>
@@ -1629,6 +1636,7 @@
   <project name="platform/vendor/qcom/titanium_64"/>
   <project name="platform/vendor/qcom/trinket"/>
   <project name="platform/vendor/qcom/trinket_32"/>
+  <project name="platform/vendor/qcom/volcano"/>
   <project name="platform/vendor/qcom/wlan"/>
   <project name="platform/vendor/st/opensource/driver"/>
   <project name="platform/vendor/st/opensource/eSE-driver"/>

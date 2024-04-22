@@ -1638,6 +1638,7 @@
   <project name="platform/vendor/qcom/trinket_32"/>
   <project name="platform/vendor/qcom/volcano"/>
   <project name="platform/vendor/qcom/wlan"/>
+  <project name="platform/vendor/stm/opensource/keymaster"/>
   <project name="platform/vendor/st/opensource/driver"/>
   <project name="platform/vendor/st/opensource/eSE-driver"/>
   <project name="platform/vendor/st/opensource/frameworks/st21nfc"/>

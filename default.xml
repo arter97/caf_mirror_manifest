@@ -1534,6 +1534,7 @@
   <project name="platform/vendor/qcom/msmnileau_gvmq"/>
   <project name="platform/vendor/qcom/msmnileau_km4"/>
   <project name="platform/vendor/qcom/msmnileau_tb"/>
+  <project name="platform/vendor/qcom/neo"/>
   <project name="platform/vendor/qcom/opensource/agm"/>
   <project name="platform/vendor/qcom-opensource/androidui"/>
   <project name="platform/vendor/qcom/opensource/arpal-lx"/>

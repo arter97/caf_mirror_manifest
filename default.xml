@@ -1494,6 +1494,7 @@
   <project name="platform/vendor/opensource/audio-kernel"/>
   <project name="platform/vendor/opensource/camera-kernel"/>
   <project name="platform/vendor/opensource/cvp-kernel"/>
+  <project name="platform/vendor/opensource/data-eth"/>
   <project name="platform/vendor/opensource/dataipa"/>
   <project name="platform/vendor/opensource/display-drivers"/>
   <project name="platform/vendor/opensource/eva-kernel"/>

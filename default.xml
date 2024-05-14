@@ -1626,6 +1626,8 @@
   <project name="platform/vendor/qcom/parrot"/>
   <project name="platform/vendor/qcom/peafowl"/>
   <project name="platform/vendor/qcom/pineapple"/>
+  <project name="platform/vendor/qcom/pitti"/>
+  <project name="platform/vendor/qcom/pitti_32go"/>
   <project name="platform/vendor/qcom/qcs605"/>
   <project name="platform/vendor/qcom/skunk"/>
   <project name="platform/vendor/qcom/steppe"/>

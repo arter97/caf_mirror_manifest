@@ -1511,6 +1511,7 @@
   <project name="platform/vendor/qcom/atoll"/>
   <project name="platform/vendor/qcom/bengal"/>
   <project name="platform/vendor/qcom/bengal_2w"/>
+  <project name="platform/vendor/qcom/bengal_2w_v2"/>
   <project name="platform/vendor/qcom/bengal_32"/>
   <project name="platform/vendor/qcom/bengal_32go"/>
   <project name="platform/vendor/qcom/blair"/>

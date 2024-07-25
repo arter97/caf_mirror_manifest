@@ -1527,6 +1527,8 @@
   <project name="platform/vendor/qcom/kona"/>
   <project name="platform/vendor/qcom/lahaina"/>
   <project name="platform/vendor/qcom/lito"/>
+  <project name="platform/vendor/qcom/monaco"/>
+  <project name="platform/vendor/qcom/monaco_go"/>
   <project name="platform/vendor/qcom/msm8909_512go"/>
   <project name="platform/vendor/qcom/msm8909go"/>
   <project name="platform/vendor/qcom/msm8937_32go"/>

@@ -57,6 +57,7 @@
   <project name="device/qcom/qssi_au_vcu"/>
   <project name="device/qcom/qssi_lite"/>
   <project name="device/qcom/qssi_sdg"/>
+  <project name="device/qcom/qssi_xrl"/>
   <project name="device/qcom/qssi_xrM"/>
   <project name="device/qcom/sepolicy"/>
   <project name="device/qcom/sepolicy_vndr"/>

@@ -135,6 +135,7 @@
   <project name="platform/external/AFLplusplus"/>
   <project name="platform/external/android-clat"/>
   <project name="platform/external/android-key-attestation"/>
+  <project name="platform/external/android-nn-driver"/>
   <project name="platform/external/android_onboarding"/>
   <project name="platform/external/androidplot"/>
   <project name="platform/external/angle"/>
@@ -158,6 +159,7 @@
   <project name="platform/external/archive-patcher"/>
   <project name="platform/external/ARMComputeLibrary"/>
   <project name="platform/external/arm-neon-tests"/>
+  <project name="platform/external/armnn"/>
   <project name="platform/external/arm-optimized-routines"/>
   <project name="platform/external/arm-trusted-firmware"/>
   <project name="platform/external/auto"/>
@@ -194,6 +196,8 @@
   <project name="platform/external/bzip2"/>
   <project name="platform/external/caliper"/>
   <project name="platform/external/can-utils"/>
+  <project name="platform/external/capicxx-core-runtime"/>
+  <project name="platform/external/capicxx-someip-runtime"/>
   <project name="platform/external/capstone"/>
   <project name="platform/external/c-ares"/>
   <project name="platform/external/catch2"/>
@@ -208,6 +212,7 @@
   <project name="platform/external/cmockery"/>
   <project name="platform/external/cn-cbor"/>
   <project name="platform/external/compiler-rt"/>
+  <project name="platform/external/ComputeLibrary"/>
   <project name="platform/external/connectedappssdk"/>
   <project name="platform/external/conscrypt"/>
   <project name="platform/external/cpu_features"/>
@@ -533,7 +538,9 @@
   <project name="platform/external/okio"/>
   <project name="platform/external/one-true-awk"/>
   <project name="platform/external/opencensus-java"/>
+  <project name="platform/external/OpenCL-CLHPP"/>
   <project name="platform/external/OpenCL-CTS"/>
+  <project name="platform/external/OpenCL-Headers"/>
   <project name="platform/external/OpenCSD"/>
   <project name="platform/external/opencv"/>
   <project name="platform/external/opencv3"/>
@@ -672,6 +679,7 @@
   <project name="platform/external/rust/crates/argh"/>
   <project name="platform/external/rust/crates/argh_derive"/>
   <project name="platform/external/rust/crates/argh_shared"/>
+  <project name="platform/external/rust/crates/arrayvec"/>
   <project name="platform/external/rust/crates/ash"/>
   <project name="platform/external/rust/crates/async-stream"/>
   <project name="platform/external/rust/crates/async-stream-impl"/>
@@ -1184,6 +1192,7 @@
   <project name="platform/frameworks/opt/gamesdk"/>
   <project name="platform/frameworks/opt/inputconnectioncommon"/>
   <project name="platform/frameworks/opt/inputmethodcommon"/>
+  <project name="platform/frameworks/opt/localepicker"/>
   <project name="platform/frameworks/opt/net/ethernet"/>
   <project name="platform/frameworks/opt/net/ike"/>
   <project name="platform/frameworks/opt/net/ims"/>
@@ -1618,6 +1627,8 @@
   <project name="platform/system/weaved"/>
   <project name="platform/system/webservd"/>
   <project name="platform/test/app_compat/csuite"/>
+  <project name="platform/test/catbox"/>
+  <project name="platform/test/cts-root"/>
   <project name="platform/test/dittosuite"/>
   <project name="platform/test/framework"/>
   <project name="platform/test/mlts/benchmark"/>
@@ -1645,6 +1656,7 @@
   <project name="platform/tools/apksig"/>
   <project name="platform/tools/apkzlib"/>
   <project name="platform/tools/asuite"/>
+  <project name="platform/tools/carrier_settings"/>
   <project name="platform/tools/content_addressed_storage/prebuilts"/>
   <project name="platform/tools/currysrc"/>
   <project name="platform/tools/deviceinfra/prebuilts"/>
@@ -1665,6 +1677,7 @@
   <project name="platform/tools/test/graphicsbenchmark"/>
   <project name="platform/tools/test/mobly_extensions"/>
   <project name="platform/tools/test/mobly_snippets"/>
+  <project name="platform/tools/test/openhst"/>
   <project name="platform/tools/tradefederation/contrib"/>
   <project name="platform/tools/tradefederation/prebuilts"/>
   <project name="platform/tools/tradefederation_repo"/>
@@ -1786,6 +1799,7 @@
   <project name="platform/vendor/qcom-opensource/rpc-util"/>
   <project name="platform/vendor/qcom/opensource/securemsm-kernel"/>
   <project name="platform/vendor/qcom-opensource/shortcut-fe"/>
+  <project name="platform/vendor/qcom-opensource/soa-examples"/>
   <project name="platform/vendor/qcom-opensource/someip-commonsys-intf"/>
   <project name="platform/vendor/qcom/opensource/spu-kernel"/>
   <project name="platform/vendor/qcom-opensource/system/bt"/>
@@ -1850,5 +1864,28 @@
   <project name="toolchain/llvm-project"/>
   <project name="toolchain/pgo-profiles"/>
   <project name="tools/platform-compat"/>
+  <project name="trusty/app/avb"/>
+  <project name="trusty/app/cast-auth"/>
+  <project name="trusty/app/confirmationui"/>
+  <project name="trusty/app/gatekeeper"/>
+  <project name="trusty/app/keymaster"/>
+  <project name="trusty/app/keymint"/>
+  <project name="trusty/app/sample"/>
+  <project name="trusty/app/secretkeeper"/>
+  <project name="trusty/app/storage"/>
+  <project name="trusty/device/arm/generic-arm64"/>
+  <project name="trusty/device/arm/vexpress-a15"/>
+  <project name="trusty/device/nxp/imx7d"/>
+  <project name="trusty/device/x86/generic-x86_64"/>
+  <project name="trusty/external/headers"/>
+  <project name="trusty/external/musl"/>
+  <project name="trusty/external/trusted-firmware-a"/>
+  <project name="trusty/external/trusty"/>
+  <project name="trusty/host/common"/>
+  <project name="trusty/interfaces"/>
+  <project name="trusty/lib"/>
+  <project name="trusty/lk/common"/>
+  <project name="trusty/lk/nxp"/>
+  <project name="trusty/lk/trusty"/>
 
 </manifest>

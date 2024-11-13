@@ -1740,6 +1740,7 @@
   <project name="platform/vendor/qcom/msmnile"/>
   <project name="platform/vendor/qcom/msmnileau"/>
   <project name="platform/vendor/qcom/msmnileau_gvmq"/>
+  <project name="platform/vendor/qcom/msmnileau_gvmq_ext4"/>
   <project name="platform/vendor/qcom/msmnileau_km4"/>
   <project name="platform/vendor/qcom/msmnileau_tb"/>
   <project name="platform/vendor/qcom/neo"/>

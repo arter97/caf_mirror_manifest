@@ -537,6 +537,7 @@
   <project name="platform/external/okhttp4"/>
   <project name="platform/external/okio"/>
   <project name="platform/external/one-true-awk"/>
+  <project name="platform/external/Open-AVB"/>
   <project name="platform/external/opencensus-java"/>
   <project name="platform/external/OpenCL-CLHPP"/>
   <project name="platform/external/OpenCL-CTS"/>
@@ -1710,6 +1711,7 @@
   <project name="platform/vendor/opensource/touch-drivers"/>
   <project name="platform/vendor/opensource/video-driver"/>
   <project name="platform/vendor/opensource/video-driver-test"/>
+  <project name="platform/vendor/opensource/virtio-video"/>
   <project name="platform/vendor/qcom/apq8098_latv"/>
   <project name="platform/vendor/qcom/atoll"/>
   <project name="platform/vendor/qcom/bengal"/>
@@ -1726,6 +1728,8 @@
   <project name="platform/vendor/qcom/falcon_32"/>
   <project name="platform/vendor/qcom/falcon_64"/>
   <project name="platform/vendor/qcom/ferrum"/>
+  <project name="platform/vendor/qcom/gen4_gvm"/>
+  <project name="platform/vendor/qcom/gen4_gvm_gy"/>
   <project name="platform/vendor/qcom/holi"/>
   <project name="platform/vendor/qcom/kalama"/>
   <project name="platform/vendor/qcom/kona"/>
@@ -1751,6 +1755,8 @@
   <project name="platform/vendor/qcom-opensource/audio-hal/st-hal"/>
   <project name="platform/vendor/qcom-opensource/audio-hal/st-hal-ar"/>
   <project name="platform/vendor/qcom/opensource/audio-kernel-ar"/>
+  <project name="platform/vendor/qcom/opensource/audio-kernel-virtio"/>
+  <project name="platform/vendor/qcom-opensource/audiolite"/>
   <project name="platform/vendor/qcom-opensource/bluetooth"/>
   <project name="platform/vendor/qcom-opensource/bluetooth-commonsys-intf"/>
   <project name="platform/vendor/qcom-opensource/bluetooth_ext"/>
@@ -1794,7 +1800,10 @@
   <project name="platform/vendor/qcom-opensource/mmc-utils"/>
   <project name="platform/vendor/qcom-opensource/packages/apps/Bluetooth"/>
   <project name="platform/vendor/qcom-opensource/packages/modules/Bluetooth"/>
+  <project name="platform/vendor/qcom/opensource/platform-kernel"/>
   <project name="platform/vendor/qcom-opensource/power"/>
+  <project name="platform/vendor/qcom-opensource/ptp-virtual"/>
+  <project name="platform/vendor/qcom-opensource/qti-can-kernel"/>
   <project name="platform/vendor/qcom-opensource/rcs-service"/>
   <project name="platform/vendor/qcom-opensource/recovery-ext"/>
   <project name="platform/vendor/qcom-opensource/rpc-util"/>

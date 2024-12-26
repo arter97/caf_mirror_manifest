@@ -1810,6 +1810,7 @@
   <project name="platform/vendor/qcom/opensource/securemsm-kernel"/>
   <project name="platform/vendor/qcom-opensource/shortcut-fe"/>
   <project name="platform/vendor/qcom-opensource/soa-examples"/>
+  <project name="platform/vendor/qcom-opensource/soa-infra"/>
   <project name="platform/vendor/qcom-opensource/someip-commonsys-intf"/>
   <project name="platform/vendor/qcom/opensource/spu-kernel"/>
   <project name="platform/vendor/qcom-opensource/system/bt"/>

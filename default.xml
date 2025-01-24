@@ -209,12 +209,14 @@
   <project name="platform/external/chromium-webview"/>
   <project name="platform/external/clang"/>
   <project name="platform/external/cldr"/>
+  <project name="platform/external/clpeak"/>
   <project name="platform/external/cmockery"/>
   <project name="platform/external/cn-cbor"/>
   <project name="platform/external/compiler-rt"/>
   <project name="platform/external/ComputeLibrary"/>
   <project name="platform/external/connectedappssdk"/>
   <project name="platform/external/conscrypt"/>
+  <project name="platform/external/coreboot"/>
   <project name="platform/external/cpu_features"/>
   <project name="platform/external/cpuinfo"/>
   <project name="platform/external/crcalc"/>
@@ -256,8 +258,10 @@
   <project name="platform/external/eclipse/mosquitto"/>
   <project name="platform/external/eclipse/paho.mqtt.c"/>
   <project name="platform/external/eclipse-windowbuilder"/>
+  <project name="platform/external/edid-decode"/>
   <project name="platform/external/eigen"/>
   <project name="platform/external/elfutils"/>
+  <project name="platform/external/emboss"/>
   <project name="platform/external/emma"/>
   <project name="platform/external/epid-sdk"/>
   <project name="platform/external/erofs-utils"/>
@@ -278,6 +282,7 @@
   <project name="platform/external/fio"/>
   <project name="platform/external/firebase-messaging"/>
   <project name="platform/external/flac"/>
+  <project name="platform/external/flashrom"/>
   <project name="platform/external/flatbuffers"/>
   <project name="platform/external/fmtlib"/>
   <project name="platform/external/fonttools"/>
@@ -293,6 +298,7 @@
   <project name="platform/external/gfxstream-protocols"/>
   <project name="platform/external/giflib"/>
   <project name="platform/external/glide"/>
+  <project name="platform/external/gmmlib"/>
   <project name="platform/external/gmock"/>
   <project name="platform/external/go-cmp"/>
   <project name="platform/external/golang-protobuf"/>
@@ -326,8 +332,11 @@
   <project name="platform/external/gptfdisk"/>
   <project name="platform/external/grpc-grpc"/>
   <project name="platform/external/grpc-grpc-java"/>
+  <project name="platform/external/gsc-utils"/>
   <project name="platform/external/gson"/>
   <project name="platform/external/gtest"/>
+  <project name="platform/external/gturri-aXMLRPC"/>
+  <project name="platform/external/gturri-jISO8601"/>
   <project name="platform/external/guava"/>
   <project name="platform/external/guice"/>
   <project name="platform/external/gwp_asan"/>
@@ -342,6 +351,7 @@
   <project name="platform/external/image_io"/>
   <project name="platform/external/ImageMagick"/>
   <project name="platform/external/ims"/>
+  <project name="platform/external/intel-media-driver"/>
   <project name="platform/external/iperf3"/>
   <project name="platform/external/iproute2"/>
   <project name="platform/external/ipsec-tools"/>
@@ -458,6 +468,7 @@
   <project name="platform/external/libusb"/>
   <project name="platform/external/libusb-compat"/>
   <project name="platform/external/libutf"/>
+  <project name="platform/external/libva"/>
   <project name="platform/external/libvncserver"/>
   <project name="platform/external/libvorbis"/>
   <project name="platform/external/libvpx"/>
@@ -505,6 +516,7 @@
   <project name="platform/external/mockito-kotlin"/>
   <project name="platform/external/mockwebserver"/>
   <project name="platform/external/modp_b64"/>
+  <project name="platform/external/moshi"/>
   <project name="platform/external/mp4parser"/>
   <project name="platform/external/MPAndroidChart"/>
   <project name="platform/external/ms-tpm-20-ref"/>
@@ -542,6 +554,7 @@
   <project name="platform/external/OpenCL-CLHPP"/>
   <project name="platform/external/OpenCL-CTS"/>
   <project name="platform/external/OpenCL-Headers"/>
+  <project name="platform/external/OpenCL-ICD-Loader"/>
   <project name="platform/external/OpenCSD"/>
   <project name="platform/external/opencv"/>
   <project name="platform/external/opencv3"/>
@@ -559,6 +572,7 @@
   <project name="platform/external/pandora/bt-test-interfaces"/>
   <project name="platform/external/pandora/mmi2grpc"/>
   <project name="platform/external/parameter-framework"/>
+  <project name="platform/external/pciutils"/>
   <project name="platform/external/pcre"/>
   <project name="platform/external/pdfium"/>
   <project name="platform/external/perf_data_converter"/>
@@ -648,6 +662,7 @@
   <project name="platform/external/python/six"/>
   <project name="platform/external/python/timeout-decorator"/>
   <project name="platform/external/python/typing"/>
+  <project name="platform/external/python/typing_extensions"/>
   <project name="platform/external/python/uritemplates"/>
   <project name="platform/external/r8"/>
   <project name="platform/external/rapidjson"/>
@@ -666,6 +681,7 @@
   <project name="platform/external/rust/android-crates-io"/>
   <project name="platform/external/rust/autocxx"/>
   <project name="platform/external/rust/beto-rust"/>
+  <project name="platform/external/rust/crabbyavif"/>
   <project name="platform/external/rust/crates/aarch64-paging"/>
   <project name="platform/external/rust/crates/acpi"/>
   <project name="platform/external/rust/crates/ahash"/>
@@ -725,6 +741,7 @@
   <project name="platform/external/rust/crates/configparser"/>
   <project name="platform/external/rust/crates/const-oid"/>
   <project name="platform/external/rust/crates/coset"/>
+  <project name="platform/external/rust/crates/cov-mark"/>
   <project name="platform/external/rust/crates/crc32fast"/>
   <project name="platform/external/rust/crates/criterion"/>
   <project name="platform/external/rust/crates/criterion-plot"/>
@@ -758,10 +775,12 @@
   <project name="platform/external/rust/crates/enumn"/>
   <project name="platform/external/rust/crates/env_logger"/>
   <project name="platform/external/rust/crates/epoll"/>
+  <project name="platform/external/rust/crates/equivalent"/>
   <project name="platform/external/rust/crates/errno"/>
   <project name="platform/external/rust/crates/fallible-iterator"/>
   <project name="platform/external/rust/crates/fallible-streaming-iterator"/>
   <project name="platform/external/rust/crates/fastrand"/>
+  <project name="platform/external/rust/crates/fixedbitset"/>
   <project name="platform/external/rust/crates/flagset"/>
   <project name="platform/external/rust/crates/flate2"/>
   <project name="platform/external/rust/crates/fnv"/>
@@ -799,6 +818,7 @@
   <project name="platform/external/rust/crates/hashlink"/>
   <project name="platform/external/rust/crates/heck"/>
   <project name="platform/external/rust/crates/hex"/>
+  <project name="platform/external/rust/crates/hound"/>
   <project name="platform/external/rust/crates/http"/>
   <project name="platform/external/rust/crates/httparse"/>
   <project name="platform/external/rust/crates/http-body"/>
@@ -817,6 +837,8 @@
   <project name="platform/external/rust/crates/kernlog"/>
   <project name="platform/external/rust/crates/lazycell"/>
   <project name="platform/external/rust/crates/lazy_static"/>
+  <project name="platform/external/rust/crates/libbpf-rs"/>
+  <project name="platform/external/rust/crates/libbpf-sys"/>
   <project name="platform/external/rust/crates/libc"/>
   <project name="platform/external/rust/crates/libfuzzer-sys"/>
   <project name="platform/external/rust/crates/libloading"/>
@@ -864,6 +886,8 @@
   <project name="platform/external/rust/crates/num-complex"/>
   <project name="platform/external/rust/crates/num_cpus"/>
   <project name="platform/external/rust/crates/num-derive"/>
+  <project name="platform/external/rust/crates/num_enum"/>
+  <project name="platform/external/rust/crates/num_enum_derive"/>
   <project name="platform/external/rust/crates/num-integer"/>
   <project name="platform/external/rust/crates/num-traits"/>
   <project name="platform/external/rust/crates/octets"/>
@@ -884,10 +908,12 @@
   <project name="platform/external/rust/crates/pdl-runtime"/>
   <project name="platform/external/rust/crates/peeking_take_while"/>
   <project name="platform/external/rust/crates/percent-encoding"/>
+  <project name="platform/external/rust/crates/percore"/>
   <project name="platform/external/rust/crates/pest"/>
   <project name="platform/external/rust/crates/pest_derive"/>
   <project name="platform/external/rust/crates/pest_generator"/>
   <project name="platform/external/rust/crates/pest_meta"/>
+  <project name="platform/external/rust/crates/petgraph"/>
   <project name="platform/external/rust/crates/pin-project"/>
   <project name="platform/external/rust/crates/pin-project-internal"/>
   <project name="platform/external/rust/crates/pin-project-lite"/>
@@ -934,6 +960,7 @@
   <project name="platform/external/rust/crates/rustc-hash"/>
   <project name="platform/external/rust/crates/rusticata-macros"/>
   <project name="platform/external/rust/crates/rustix"/>
+  <project name="platform/external/rust/crates/rust-stemmers"/>
   <project name="platform/external/rust/crates/rustversion"/>
   <project name="platform/external/rust/crates/ryu"/>
   <project name="platform/external/rust/crates/same-file"/>
@@ -1034,6 +1061,7 @@
   <project name="platform/external/rust/crates/vmm-sys-util"/>
   <project name="platform/external/rust/crates/vmm_vhost"/>
   <project name="platform/external/rust/crates/vsock"/>
+  <project name="platform/external/rust/crates/vsprintf"/>
   <project name="platform/external/rust/crates/vulkano"/>
   <project name="platform/external/rust/crates/walkdir"/>
   <project name="platform/external/rust/crates/want"/>

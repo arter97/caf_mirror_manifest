@@ -54,6 +54,7 @@
   <project name="device/qcom/qssi_32go"/>
   <project name="device/qcom/qssi_64"/>
   <project name="device/qcom/qssi_au"/>
+  <project name="device/qcom/qssi_au_64"/>
   <project name="device/qcom/qssi_au_vcu"/>
   <project name="device/qcom/qssi_lite"/>
   <project name="device/qcom/qssi_sdg"/>
@@ -1774,6 +1775,7 @@
   <project name="platform/vendor/qcom/msmnileau_gvmq"/>
   <project name="platform/vendor/qcom/msmnileau_gvmq_ext4"/>
   <project name="platform/vendor/qcom/msmnileau_km4"/>
+  <project name="platform/vendor/qcom/msmnileau_s_u"/>
   <project name="platform/vendor/qcom/msmnileau_tb"/>
   <project name="platform/vendor/qcom/neo"/>
   <project name="platform/vendor/qcom/opensource/agm"/>
@@ -1814,6 +1816,7 @@
   <project name="platform/vendor/qcom-opensource/fm"/>
   <project name="platform/vendor/qcom-opensource/fm-commonsys"/>
   <project name="platform/vendor/qcom-opensource/fst-manager"/>
+  <project name="platform/vendor/qcom-opensource/gnss_sirf-kernel"/>
   <project name="platform/vendor/qcom/opensource/graphics-kernel"/>
   <project name="platform/vendor/qcom-opensource/healthd-ext"/>
   <project name="platform/vendor/qcom-opensource/hsi2s-kernel"/>
@@ -1830,6 +1833,7 @@
   <project name="platform/vendor/qcom-opensource/packages/modules/Bluetooth"/>
   <project name="platform/vendor/qcom/opensource/platform-kernel"/>
   <project name="platform/vendor/qcom-opensource/power"/>
+  <project name="platform/vendor/qcom/opensource/psi_daemon"/>
   <project name="platform/vendor/qcom-opensource/ptp-virtual"/>
   <project name="platform/vendor/qcom-opensource/qti-can-kernel"/>
   <project name="platform/vendor/qcom-opensource/rcs-service"/>

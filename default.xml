@@ -188,6 +188,7 @@
   <project name="platform/external/bison"/>
   <project name="platform/external/blktrace"/>
   <project name="platform/external/boost-submodules/boost"/>
+  <project name="platform/external/boost-submodules/mpl"/>
   <project name="platform/external/boringssl"/>
   <project name="platform/external/bouncycastle"/>
   <project name="platform/external/bpftool"/>

@@ -1800,8 +1800,10 @@
   <project name="platform/vendor/qcom-opensource/core-utils-vendor"/>
   <project name="platform/vendor/qcom-opensource/crosvm-gunyah"/>
   <project name="platform/vendor/qcom-opensource/cryptfs_hw"/>
+  <project name="platform/vendor/qcom-opensource/data-devicetree"/>
   <project name="platform/vendor/qcom-opensource/data-ipa-cfg-mgr"/>
   <project name="platform/vendor/qcom-opensource/data-kernel"/>
+  <project name="platform/vendor/qcom-opensource/data-openssl"/>
   <project name="platform/vendor/qcom/opensource/datarmnet"/>
   <project name="platform/vendor/qcom/opensource/datarmnet-ext"/>
   <project name="platform/vendor/qcom-opensource/dataservices"/>
@@ -1810,10 +1812,13 @@
   <project name="platform/vendor/qcom-opensource/display-commonsys-intf"/>
   <project name="platform/vendor/qcom-opensource/dpm"/>
   <project name="platform/vendor/qcom-opensource/dpm-commonsys"/>
+  <project name="platform/vendor/qcom/opensource/dsp-devicetree"/>
   <project name="platform/vendor/qcom/opensource/dsp-kernel"/>
   <project name="platform/vendor/qcom-opensource/earlyservices"/>
   <project name="platform/vendor/qcom-opensource/ecosw"/>
+  <project name="platform/vendor/qcom-opensource/eSE-devicetree"/>
   <project name="platform/vendor/qcom-opensource/fingerprint"/>
+  <project name="platform/vendor/qcom-opensource/fingerprint-devicetree"/>
   <project name="platform/vendor/qcom-opensource/fm"/>
   <project name="platform/vendor/qcom-opensource/fm-commonsys"/>
   <project name="platform/vendor/qcom-opensource/fst-manager"/>
@@ -1830,6 +1835,7 @@
   <project name="platform/vendor/qcom-opensource/lights"/>
   <project name="platform/vendor/qcom-opensource/location"/>
   <project name="platform/vendor/qcom-opensource/mmc-utils"/>
+  <project name="platform/vendor/qcom-opensource/nfc-devicetree"/>
   <project name="platform/vendor/qcom-opensource/packages/apps/Bluetooth"/>
   <project name="platform/vendor/qcom-opensource/packages/modules/Bluetooth"/>
   <project name="platform/vendor/qcom/opensource/platform-kernel"/>
@@ -1846,6 +1852,7 @@
   <project name="platform/vendor/qcom-opensource/soa-infra"/>
   <project name="platform/vendor/qcom-opensource/someip-commonsys-intf"/>
   <project name="platform/vendor/qcom/opensource/spu-kernel"/>
+  <project name="platform/vendor/qcom-opensource/synx-devicetree"/>
   <project name="platform/vendor/qcom-opensource/system/bt"/>
   <project name="platform/vendor/qcom-opensource/thermal-engine"/>
   <project name="platform/vendor/qcom-opensource/time-services"/>
@@ -1885,6 +1892,7 @@
   <project name="platform/vendor/qcom/skunk"/>
   <project name="platform/vendor/qcom/steppe"/>
   <project name="platform/vendor/qcom/steppeau"/>
+  <project name="platform/vendor/qcom/sun"/>
   <project name="platform/vendor/qcom/taro"/>
   <project name="platform/vendor/qcom/thorium_32"/>
   <project name="platform/vendor/qcom/thorium_64"/>

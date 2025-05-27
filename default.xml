@@ -206,6 +206,7 @@
   <project name="platform/external/cblas"/>
   <project name="platform/external/cbor-java"/>
   <project name="platform/external/ceres-solver"/>
+  <project name="platform/external/chromium-crossbench"/>
   <project name="platform/external/chromium-libpac"/>
   <project name="platform/external/chromium-trace"/>
   <project name="platform/external/chromium-webview"/>
@@ -271,16 +272,19 @@
   <project name="platform/external/escapevelocity"/>
   <project name="platform/external/esd"/>
   <project name="platform/external/ethtool"/>
+  <project name="platform/external/executorch"/>
   <project name="platform/external/exfatprogs"/>
   <project name="platform/external/exoplayer"/>
   <project name="platform/external/expat"/>
   <project name="platform/external/eyes-free"/>
   <project name="platform/external/f2fs-tools"/>
   <project name="platform/external/fastrpc"/>
+  <project name="platform/external/fbjni"/>
   <project name="platform/external/fdlibm"/>
   <project name="platform/external/fec"/>
   <project name="platform/external/federated-compute"/>
   <project name="platform/external/fft2d"/>
+  <project name="platform/external/fhir/spec/r4"/>
   <project name="platform/external/fio"/>
   <project name="platform/external/firebase-messaging"/>
   <project name="platform/external/flac"/>
@@ -384,8 +388,10 @@
   <project name="platform/external/jsmn"/>
   <project name="platform/external/json-c"/>
   <project name="platform/external/jsoncpp"/>
+  <project name="platform/external/json-schema-validator"/>
   <project name="platform/external/jsoup"/>
   <project name="platform/external/jsoup-1p-stubs"/>
+  <project name="platform/external/jspecify"/>
   <project name="platform/external/jsr305"/>
   <project name="platform/external/jsr330"/>
   <project name="platform/external/junit"/>
@@ -393,6 +399,7 @@
   <project name="platform/external/kernel-headers"/>
   <project name="platform/external/kmod"/>
   <project name="platform/external/kotlinc"/>
+  <project name="platform/external/kotlin-compose-compiler"/>
   <project name="platform/external/kotlinpoet"/>
   <project name="platform/external/kotlinx.atomicfu"/>
   <project name="platform/external/kotlinx.coroutines"/>
@@ -452,6 +459,7 @@
   <project name="platform/external/libnfnetlink"/>
   <project name="platform/external/libnl"/>
   <project name="platform/external/libogg"/>
+  <project name="platform/external/libopenapv"/>
   <project name="platform/external/libopus"/>
   <project name="platform/external/libpalmrejection"/>
   <project name="platform/external/libpcap"/>
@@ -484,6 +492,7 @@
   <project name="platform/external/libxml2"/>
   <project name="platform/external/libyuv"/>
   <project name="platform/external/licenseclassifier"/>
+  <project name="platform/external/linux-firmware"/>
   <project name="platform/external/linux-kselftest"/>
   <project name="platform/external/lisa"/>
   <project name="platform/external/littlemock"/>
@@ -666,6 +675,8 @@
   <project name="platform/external/python/typing"/>
   <project name="platform/external/python/typing_extensions"/>
   <project name="platform/external/python/uritemplates"/>
+  <project name="platform/external/python/watchdog"/>
+  <project name="platform/external/pytorch"/>
   <project name="platform/external/r8"/>
   <project name="platform/external/rapidjson"/>
   <project name="platform/external/rappor"/>
@@ -830,6 +841,8 @@
   <project name="platform/external/rust/crates/ident_case"/>
   <project name="platform/external/rust/crates/idna"/>
   <project name="platform/external/rust/crates/indexmap"/>
+  <project name="platform/external/rust/crates/inotify"/>
+  <project name="platform/external/rust/crates/inotify-sys"/>
   <project name="platform/external/rust/crates/instant"/>
   <project name="platform/external/rust/crates/intrusive-collections"/>
   <project name="platform/external/rust/crates/itertools"/>
@@ -847,6 +860,7 @@
   <project name="platform/external/rust/crates/libm"/>
   <project name="platform/external/rust/crates/libsqlite3-sys"/>
   <project name="platform/external/rust/crates/libtest-mimic"/>
+  <project name="platform/external/rust/crates/libusb1-sys"/>
   <project name="platform/external/rust/crates/libz-sys"/>
   <project name="platform/external/rust/crates/linked-hash-map"/>
   <project name="platform/external/rust/crates/linkme"/>
@@ -858,6 +872,7 @@
   <project name="platform/external/rust/crates/lz4_flex"/>
   <project name="platform/external/rust/crates/macaddr"/>
   <project name="platform/external/rust/crates/managed"/>
+  <project name="platform/external/rust/crates/maplit"/>
   <project name="platform/external/rust/crates/matches"/>
   <project name="platform/external/rust/crates/matchit"/>
   <project name="platform/external/rust/crates/maybe-async"/>
@@ -941,6 +956,8 @@
   <project name="platform/external/rust/crates/protobuf-parse"/>
   <project name="platform/external/rust/crates/protobuf-support"/>
   <project name="platform/external/rust/crates/psci"/>
+  <project name="platform/external/rust/crates/ptr_meta"/>
+  <project name="platform/external/rust/crates/ptr_meta_derive"/>
   <project name="platform/external/rust/crates/quiche"/>
   <project name="platform/external/rust/crates/quickcheck"/>
   <project name="platform/external/rust/crates/quote"/>
@@ -956,6 +973,7 @@
   <project name="platform/external/rust/crates/remain"/>
   <project name="platform/external/rust/crates/remove_dir_all"/>
   <project name="platform/external/rust/crates/ring"/>
+  <project name="platform/external/rust/crates/rusb"/>
   <project name="platform/external/rust/crates/rusqlite"/>
   <project name="platform/external/rust/crates/rustc-demangle"/>
   <project name="platform/external/rust/crates/rustc-demangle-capi"/>
@@ -1034,6 +1052,11 @@
   <project name="platform/external/rust/crates/tungstenite"/>
   <project name="platform/external/rust/crates/twox-hash"/>
   <project name="platform/external/rust/crates/ucd-trie"/>
+  <project name="platform/external/rust/crates/ucs2"/>
+  <project name="platform/external/rust/crates/uefi"/>
+  <project name="platform/external/rust/crates/uefi-macros"/>
+  <project name="platform/external/rust/crates/uefi-raw"/>
+  <project name="platform/external/rust/crates/uguid"/>
   <project name="platform/external/rust/crates/unicode-bidi"/>
   <project name="platform/external/rust/crates/unicode-ident"/>
   <project name="platform/external/rust/crates/unicode-normalization"/>
@@ -1052,6 +1075,7 @@
   <project name="platform/external/rust/crates/userfaultfd-sys"/>
   <project name="platform/external/rust/crates/utf-8"/>
   <project name="platform/external/rust/crates/uuid"/>
+  <project name="platform/external/rust/crates/v4l2r"/>
   <project name="platform/external/rust/crates/vhost"/>
   <project name="platform/external/rust/crates/vhost-device-vsock"/>
   <project name="platform/external/rust/crates/vhost-user-backend"/>
@@ -1080,6 +1104,7 @@
   <project name="platform/external/rust/crates/zeroize"/>
   <project name="platform/external/rust/crates/zeroize_derive"/>
   <project name="platform/external/rust/crates/zip"/>
+  <project name="platform/external/rust/cros-libva"/>
   <project name="platform/external/rust/cxx"/>
   <project name="platform/external/rust/pica"/>
   <project name="platform/external/ruy"/>
@@ -1150,6 +1175,7 @@
   <project name="platform/external/tremolo"/>
   <project name="platform/external/truth"/>
   <project name="platform/external/turbine"/>
+  <project name="platform/external/ublksrv"/>
   <project name="platform/external/u-boot"/>
   <project name="platform/external/ukey2"/>
   <project name="platform/external/unicode"/>
@@ -1161,6 +1187,7 @@
   <project name="platform/external/valgrind"/>
   <project name="platform/external/vboot_reference"/>
   <project name="platform/external/virglrenderer"/>
+  <project name="platform/external/virtio-media"/>
   <project name="platform/external/vixl"/>
   <project name="platform/external/vm_tools/p9"/>
   <project name="platform/external/vogar"/>
@@ -1328,6 +1355,7 @@
   <project name="platform/packages/apps/Car/RadioPrebuilt"/>
   <project name="platform/packages/apps/CarrierConfig"/>
   <project name="platform/packages/apps/Car/RotaryController"/>
+  <project name="platform/packages/apps/Car/RotaryImePrebuilt"/>
   <project name="platform/packages/apps/Car/Settings"/>
   <project name="platform/packages/apps/Car/SettingsIntelligence"/>
   <project name="platform/packages/apps/Car/Stream"/>
@@ -1364,6 +1392,7 @@
   <project name="platform/packages/apps/ManagedProvisioning"/>
   <project name="platform/packages/apps/Messaging"/>
   <project name="platform/packages/apps/Mms"/>
+  <project name="platform/packages/apps/Multiuser"/>
   <project name="platform/packages/apps/Music"/>
   <project name="platform/packages/apps/MusicFX"/>
   <project name="platform/packages/apps/Nfc"/>
@@ -1633,6 +1662,7 @@
   <project name="platform/system/memory/libmemtrack"/>
   <project name="platform/system/memory/libmemunreachable"/>
   <project name="platform/system/memory/lmkd"/>
+  <project name="platform/system/memory/mmd"/>
   <project name="platform/system/nativepower"/>
   <project name="platform/system/netd"/>
   <project name="platform/system/nfc"/>
@@ -1654,6 +1684,7 @@
   <project name="platform/system/ucontainer"/>
   <project name="platform/system/unwinding"/>
   <project name="platform/system/update_engine"/>
+  <project name="platform/system/usb_info_tools"/>
   <project name="platform/system/vold"/>
   <project name="platform/system/weaved"/>
   <project name="platform/system/webservd"/>
@@ -1815,6 +1846,7 @@
   <project name="platform/vendor/qcom/opensource/dsp-devicetree"/>
   <project name="platform/vendor/qcom/opensource/dsp-kernel"/>
   <project name="platform/vendor/qcom-opensource/earlyservices"/>
+  <project name="platform/vendor/qcom-opensource/eavb"/>
   <project name="platform/vendor/qcom-opensource/ecosw"/>
   <project name="platform/vendor/qcom-opensource/eSE-devicetree"/>
   <project name="platform/vendor/qcom-opensource/fingerprint"/>
@@ -1916,6 +1948,7 @@
   <project name="toolchain/llvm-project"/>
   <project name="toolchain/pgo-profiles"/>
   <project name="tools/platform-compat"/>
+  <project name="trusty/app/authmgr"/>
   <project name="trusty/app/avb"/>
   <project name="trusty/app/cast-auth"/>
   <project name="trusty/app/confirmationui"/>

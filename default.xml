@@ -49,6 +49,7 @@
   <project name="device/linaro/poplar-kernel"/>
   <project name="device/qcom/bengal_515"/>
   <project name="device/qcom/common"/>
+  <project name="device/qcom/iot-feature-config"/>
   <project name="device/qcom/qssi"/>
   <project name="device/qcom/qssi_32"/>
   <project name="device/qcom/qssi_32go"/>
@@ -80,10 +81,14 @@
   <project name="kernel/prebuilts/5.15/x86-64"/>
   <project name="kernel/prebuilts/5.4/arm64"/>
   <project name="kernel/prebuilts/5.4/x86-64"/>
+  <project name="kernel/prebuilts/6.12/arm64"/>
+  <project name="kernel/prebuilts/6.12/x86-64"/>
   <project name="kernel/prebuilts/6.1/arm64"/>
   <project name="kernel/prebuilts/6.1/x86-64"/>
   <project name="kernel/prebuilts/6.6/arm64"/>
   <project name="kernel/prebuilts/6.6/x86-64"/>
+  <project name="kernel/prebuilts/common-modules/trusty/6.12/arm64"/>
+  <project name="kernel/prebuilts/common-modules/trusty/6.6/arm64"/>
   <project name="kernel/prebuilts/common-modules/virtual-device/4.19/arm64"/>
   <project name="kernel/prebuilts/common-modules/virtual-device/4.19/x86-64"/>
   <project name="kernel/prebuilts/common-modules/virtual-device/5.10/arm64"/>
@@ -92,6 +97,8 @@
   <project name="kernel/prebuilts/common-modules/virtual-device/5.15/x86-64"/>
   <project name="kernel/prebuilts/common-modules/virtual-device/5.4/arm64"/>
   <project name="kernel/prebuilts/common-modules/virtual-device/5.4/x86-64"/>
+  <project name="kernel/prebuilts/common-modules/virtual-device/6.12/arm64"/>
+  <project name="kernel/prebuilts/common-modules/virtual-device/6.12/x86-64"/>
   <project name="kernel/prebuilts/common-modules/virtual-device/6.1/arm64"/>
   <project name="kernel/prebuilts/common-modules/virtual-device/6.1/x86-64"/>
   <project name="kernel/prebuilts/common-modules/virtual-device/6.6/arm64"/>
@@ -208,6 +215,7 @@
   <project name="platform/external/ceres-solver"/>
   <project name="platform/external/chromium-crossbench"/>
   <project name="platform/external/chromium-libpac"/>
+  <project name="platform/external/chromiumos-config"/>
   <project name="platform/external/chromium-trace"/>
   <project name="platform/external/chromium-webview"/>
   <project name="platform/external/clang"/>
@@ -368,6 +376,7 @@
   <project name="platform/external/jackson-core"/>
   <project name="platform/external/jackson-databind"/>
   <project name="platform/external/jacoco"/>
+  <project name="platform/external/jakarta.inject"/>
   <project name="platform/external/jarjar"/>
   <project name="platform/external/javaparser"/>
   <project name="platform/external/javapoet"/>
@@ -400,6 +409,7 @@
   <project name="platform/external/kmod"/>
   <project name="platform/external/kotlinc"/>
   <project name="platform/external/kotlin-compose-compiler"/>
+  <project name="platform/external/kotlin.metadata"/>
   <project name="platform/external/kotlinpoet"/>
   <project name="platform/external/kotlinx.atomicfu"/>
   <project name="platform/external/kotlinx.coroutines"/>
@@ -429,6 +439,7 @@
   <project name="platform/external/libcxxabi"/>
   <project name="platform/external/libdaemon"/>
   <project name="platform/external/libdav1d"/>
+  <project name="platform/external/libdisplay-info"/>
   <project name="platform/external/libdivsufsort"/>
   <project name="platform/external/libdrm"/>
   <project name="platform/external/libedit"/>
@@ -463,6 +474,7 @@
   <project name="platform/external/libopus"/>
   <project name="platform/external/libpalmrejection"/>
   <project name="platform/external/libpcap"/>
+  <project name="platform/external/libpciaccess"/>
   <project name="platform/external/libphonenumber"/>
   <project name="platform/external/libpng"/>
   <project name="platform/external/libprotobuf-mutator"/>
@@ -479,6 +491,7 @@
   <project name="platform/external/libusb-compat"/>
   <project name="platform/external/libutf"/>
   <project name="platform/external/libva"/>
+  <project name="platform/external/libva-utils"/>
   <project name="platform/external/libvncserver"/>
   <project name="platform/external/libvorbis"/>
   <project name="platform/external/libvpx"/>
@@ -517,6 +530,7 @@
   <project name="platform/external/minigbm"/>
   <project name="platform/external/minijail"/>
   <project name="platform/external/mksh"/>
+  <project name="platform/external/ml_dtypes"/>
   <project name="platform/external/mmc-utils"/>
   <project name="platform/external/mm-dash"/>
   <project name="platform/external/mobile-data-download"/>
@@ -530,6 +544,7 @@
   <project name="platform/external/moshi"/>
   <project name="platform/external/mp4parser"/>
   <project name="platform/external/MPAndroidChart"/>
+  <project name="platform/external/mpdecimal"/>
   <project name="platform/external/ms-tpm-20-ref"/>
   <project name="platform/external/mtools"/>
   <project name="platform/external/mtpd"/>
@@ -1160,6 +1175,7 @@
   <project name="platform/external/timezone-boundary-builder"/>
   <project name="platform/external/timezonepicker-support"/>
   <project name="platform/external/tink"/>
+  <project name="platform/external/tink-java"/>
   <project name="platform/external/tinyalsa"/>
   <project name="platform/external/tinyalsa_new"/>
   <project name="platform/external/tinycompress"/>
@@ -1180,9 +1196,11 @@
   <project name="platform/external/ukey2"/>
   <project name="platform/external/unicode"/>
   <project name="platform/external/universal-tween-engine"/>
+  <project name="platform/external/usb-ids"/>
   <project name="platform/external/usrsctp"/>
   <project name="platform/external/uwb"/>
   <project name="platform/external/v4l2_codec2"/>
+  <project name="platform/external/v4l-utils"/>
   <project name="platform/external/v8"/>
   <project name="platform/external/valgrind"/>
   <project name="platform/external/vboot_reference"/>
@@ -1353,6 +1371,7 @@
   <project name="platform/packages/apps/Car/Provision"/>
   <project name="platform/packages/apps/Car/Radio"/>
   <project name="platform/packages/apps/Car/RadioPrebuilt"/>
+  <project name="platform/packages/apps/Car/References"/>
   <project name="platform/packages/apps/CarrierConfig"/>
   <project name="platform/packages/apps/Car/RotaryController"/>
   <project name="platform/packages/apps/Car/RotaryImePrebuilt"/>
@@ -1401,6 +1420,7 @@
   <project name="platform/packages/apps/PackageInstaller"/>
   <project name="platform/packages/apps/Phone"/>
   <project name="platform/packages/apps/PhoneCommon"/>
+  <project name="platform/packages/apps/PrivateSpace"/>
   <project name="platform/packages/apps/Protips"/>
   <project name="platform/packages/apps/Provision"/>
   <project name="platform/packages/apps/QuickAccessWallet"/>
@@ -1414,6 +1434,7 @@
   <project name="platform/packages/apps/SettingsIntelligence"/>
   <project name="platform/packages/apps/SmartCardService"/>
   <project name="platform/packages/apps/SnapdragonCamera"/>
+  <project name="platform/packages/apps/SnapdragonDeskClock"/>
   <project name="platform/packages/apps/SnapdragonGallery"/>
   <project name="platform/packages/apps/SnapdragonLauncher"/>
   <project name="platform/packages/apps/SnapdragonMusic"/>
@@ -1457,6 +1478,7 @@
   <project name="platform/packages/modules/Connectivity"/>
   <project name="platform/packages/modules/CrashRecovery"/>
   <project name="platform/packages/modules/Cronet"/>
+  <project name="platform/packages/modules/desktop/Serviceability"/>
   <project name="platform/packages/modules/DeviceLock"/>
   <project name="platform/packages/modules/DnsResolver"/>
   <project name="platform/packages/modules/ExtServices"/>
@@ -1472,6 +1494,7 @@
   <project name="platform/packages/modules/NetworkPermissionConfig"/>
   <project name="platform/packages/modules/NetworkStack"/>
   <project name="platform/packages/modules/NeuralNetworks"/>
+  <project name="platform/packages/modules/Nfc"/>
   <project name="platform/packages/modules/OnDevicePersonalization"/>
   <project name="platform/packages/modules/Permission"/>
   <project name="platform/packages/modules/Profiling"/>
@@ -1585,6 +1608,7 @@
   <project name="platform/prebuilts/module_sdk/IPsec"/>
   <project name="platform/prebuilts/module_sdk/Media"/>
   <project name="platform/prebuilts/module_sdk/MediaProvider"/>
+  <project name="platform/prebuilts/module_sdk/Nfc"/>
   <project name="platform/prebuilts/module_sdk/OnDevicePersonalization"/>
   <project name="platform/prebuilts/module_sdk/Permission"/>
   <project name="platform/prebuilts/module_sdk/Profiling"/>
@@ -1629,6 +1653,7 @@
   <project name="platform/system/connectivity/wificond"/>
   <project name="platform/system/connectivity/wifilogd"/>
   <project name="platform/system/core"/>
+  <project name="platform/system/cros-codecs"/>
   <project name="platform/system/dmesgd"/>
   <project name="platform/system/extras"/>
   <project name="platform/system/firewalld"/>
@@ -1651,6 +1676,7 @@
   <project name="platform/system/librustutils"/>
   <project name="platform/system/libsysprop"/>
   <project name="platform/system/libufdt"/>
+  <project name="platform/system/liburingutils"/>
   <project name="platform/system/libvintf"/>
   <project name="platform/system/libziparchive"/>
   <project name="platform/system/linkerconfig"/>
@@ -1669,7 +1695,9 @@
   <project name="platform/system/nvram"/>
   <project name="platform/system/qcom"/>
   <project name="platform/system/secretkeeper"/>
+  <project name="platform/system/secure_element"/>
   <project name="platform/system/security"/>
+  <project name="platform/system/see/authmgr"/>
   <project name="platform/system/sepolicy"/>
   <project name="platform/system/server_configurable_flags"/>
   <project name="platform/system/teeui"/>
@@ -1688,6 +1716,7 @@
   <project name="platform/system/vold"/>
   <project name="platform/system/weaved"/>
   <project name="platform/system/webservd"/>
+  <project name="platform/system/zygote"/>
   <project name="platform/test/app_compat/csuite"/>
   <project name="platform/test/catbox"/>
   <project name="platform/test/cts-root"/>
@@ -1755,6 +1784,7 @@
   <project name="platform/vendor/nxp/opensource/halimpl"/>
   <project name="platform/vendor/nxp/opensource/hidlimpl"/>
   <project name="platform/vendor/nxp/opensource/keymaster"/>
+  <project name="platform/vendor/nxp/opensource/libnfc_vendor_extn"/>
   <project name="platform/vendor/nxp/opensource/packages/apps/Nfc"/>
   <project name="platform/vendor/opensource/audio-kernel"/>
   <project name="platform/vendor/opensource/camera-kernel"/>
@@ -1942,6 +1972,7 @@
   <project name="platform/vendor/st/opensource/halimpl"/>
   <project name="platform/vendor/st/opensource/keymaster"/>
   <project name="platform/vendor/st/opensource/packages/apps/Nfc"/>
+  <project name="platform/vendor/st/opensource/packages/modules/Nfc"/>
   <project name="platform/vendor/st/opensource/system/nfc"/>
   <project name="toolchain/benchmark"/>
   <project name="toolchain/binutils"/>
@@ -1960,6 +1991,8 @@
   <project name="trusty/app/storage"/>
   <project name="trusty/device/arm/generic-arm64"/>
   <project name="trusty/device/arm/vexpress-a15"/>
+  <project name="trusty/device/common"/>
+  <project name="trusty/device/desktop"/>
   <project name="trusty/device/nxp/imx7d"/>
   <project name="trusty/device/x86/generic-x86_64"/>
   <project name="trusty/external/headers"/>
@@ -1972,5 +2005,6 @@
   <project name="trusty/lk/common"/>
   <project name="trusty/lk/nxp"/>
   <project name="trusty/lk/trusty"/>
+  <project name="trusty/user/desktop"/>
 
 </manifest>

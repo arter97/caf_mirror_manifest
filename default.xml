@@ -1800,7 +1800,9 @@
   <project name="platform/vendor/opensource/cvp-kernel"/>
   <project name="platform/vendor/opensource/data-eth"/>
   <project name="platform/vendor/opensource/dataipa"/>
+  <project name="platform/vendor/opensource/display-core"/>
   <project name="platform/vendor/opensource/display-drivers"/>
+  <project name="platform/vendor/opensource/display-intf"/>
   <project name="platform/vendor/opensource/eva-kernel"/>
   <project name="platform/vendor/opensource/mm-drivers"/>
   <project name="platform/vendor/opensource/mmrm-driver"/>
@@ -1809,6 +1811,7 @@
   <project name="platform/vendor/opensource/sched"/>
   <project name="platform/vendor/opensource/synx-kernel"/>
   <project name="platform/vendor/opensource/touch-drivers"/>
+  <project name="platform/vendor/opensource/video-devicetree"/>
   <project name="platform/vendor/opensource/video-driver"/>
   <project name="platform/vendor/opensource/video-driver-test"/>
   <project name="platform/vendor/opensource/virtio-video"/>
@@ -1853,6 +1856,7 @@
   <project name="platform/vendor/qcom-opensource/androidui"/>
   <project name="platform/vendor/qcom/opensource/arpal-lx"/>
   <project name="platform/vendor/qcom-opensource/audio"/>
+  <project name="platform/vendor/qcom/opensource/audio-devicetree"/>
   <project name="platform/vendor/qcom-opensource/audio-hal/st-hal"/>
   <project name="platform/vendor/qcom-opensource/audio-hal/st-hal-ar"/>
   <project name="platform/vendor/qcom/opensource/audio-kernel-ar"/>
@@ -1955,6 +1959,7 @@
   <project name="platform/vendor/qcom-opensource/wlan/rpc/wifi"/>
   <project name="platform/vendor/qcom-opensource/wlan/utils/sigma-dut"/>
   <project name="platform/vendor/qcom/parrot"/>
+  <project name="platform/vendor/qcom/parrot66"/>
   <project name="platform/vendor/qcom/peafowl"/>
   <project name="platform/vendor/qcom/pineapple"/>
   <project name="platform/vendor/qcom/pitti"/>

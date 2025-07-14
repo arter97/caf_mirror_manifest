@@ -51,6 +51,7 @@
   <project name="device/linaro/poplar-kernel"/>
   <project name="device/qcom/bengal_515"/>
   <project name="device/qcom/common"/>
+  <project name="device/qcom/iot"/>
   <project name="device/qcom/iot-feature-config"/>
   <project name="device/qcom/qssi"/>
   <project name="device/qcom/qssi_32"/>
@@ -598,6 +599,8 @@
   <project name="platform/external/ow2-asm"/>
   <project name="platform/external/owasp/java-encoder"/>
   <project name="platform/external/owasp/sanitizer"/>
+  <project name="platform/external/paho.mqtt.c"/>
+  <project name="platform/external/paho.mqtt.cpp"/>
   <project name="platform/external/pandora/avatar"/>
   <project name="platform/external/pandora/bt-test-interfaces"/>
   <project name="platform/external/pandora/mmi2grpc"/>
@@ -1150,6 +1153,7 @@
   <project name="platform/external/slf4j"/>
   <project name="platform/external/smali"/>
   <project name="platform/external/snakeyaml"/>
+  <project name="platform/external/snappy"/>
   <project name="platform/external/sonic"/>
   <project name="platform/external/sonivox"/>
   <project name="platform/external/spdx-tools"/>
@@ -1958,6 +1962,7 @@
   <project name="platform/vendor/qcom-opensource/wlan/rpc/hostap"/>
   <project name="platform/vendor/qcom-opensource/wlan/rpc/wifi"/>
   <project name="platform/vendor/qcom-opensource/wlan/utils/sigma-dut"/>
+  <project name="platform/vendor/qcom-opensource/wlan/wlan-devicetree"/>
   <project name="platform/vendor/qcom/parrot"/>
   <project name="platform/vendor/qcom/parrot66"/>
   <project name="platform/vendor/qcom/peafowl"/>

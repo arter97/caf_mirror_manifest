@@ -1829,6 +1829,7 @@
   <project name="platform/vendor/qcom/bengal_32"/>
   <project name="platform/vendor/qcom/bengal_32go"/>
   <project name="platform/vendor/qcom/bengal_515_32go"/>
+  <project name="platform/vendor/qcom/bengal_auto"/>
   <project name="platform/vendor/qcom/blair"/>
   <project name="platform/vendor/qcom/capri"/>
   <project name="platform/vendor/qcom/cobalt"/>

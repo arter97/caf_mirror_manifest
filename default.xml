@@ -1874,6 +1874,8 @@
   <project name="platform/vendor/qcom-opensource/bluetooth"/>
   <project name="platform/vendor/qcom-opensource/bluetooth-commonsys-intf"/>
   <project name="platform/vendor/qcom-opensource/bluetooth_ext"/>
+  <project name="platform/vendor/qcom-opensource/bt-devicetree"/>
+  <project name="platform/vendor/qcom/opensource/bt-external"/>
   <project name="platform/vendor/qcom-opensource/bt-kernel"/>
   <project name="platform/vendor/qcom/opensource/commonsys-intf/audio"/>
   <project name="platform/vendor/qcom/opensource/commonsys/wifi"/>

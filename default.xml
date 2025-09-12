@@ -117,6 +117,7 @@
   <project name="platform/abi/cpp"/>
   <project name="platform/art"/>
   <project name="platform/bionic"/>
+  <project name="platform/bootable/deprecated-ota"/>
   <project name="platform/bootable/libbootloader"/>
   <project name="platform/bootable/recovery"/>
   <project name="platform/build/bazel"/>

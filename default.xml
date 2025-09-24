@@ -1858,6 +1858,7 @@
   <project name="platform/vendor/qcom/msmnileau"/>
   <project name="platform/vendor/qcom/msmnileau_gvmq"/>
   <project name="platform/vendor/qcom/msmnileau_gvmq_ext4"/>
+  <project name="platform/vendor/qcom/msmnileau_gvmq_s_u"/>
   <project name="platform/vendor/qcom/msmnileau_km4"/>
   <project name="platform/vendor/qcom/msmnileau_s_u"/>
   <project name="platform/vendor/qcom/msmnileau_tb"/>
@@ -1981,6 +1982,7 @@
   <project name="platform/vendor/qcom/skunk"/>
   <project name="platform/vendor/qcom/steppe"/>
   <project name="platform/vendor/qcom/steppeau"/>
+  <project name="platform/vendor/qcom/steppeau_s_u"/>
   <project name="platform/vendor/qcom/sun"/>
   <project name="platform/vendor/qcom/taro"/>
   <project name="platform/vendor/qcom/thorium_32"/>
